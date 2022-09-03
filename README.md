@@ -8,13 +8,11 @@
       </svg>
    </a>
    <h1 id="installation-on-a-windows-computerserver">Installation on a Windows computer/server</h1>
-   <h2 id="prerequisites">Prerequisites</h2>
-   <ul>
-      <li><a href="#create-a-discord-application">Discord Application</a></li>
-      <li><a href="#lavalink">Lavalink server</a></li>
-      <li><a href="#install-nodejs-npm">NodeJS &amp; NPM</a></li>
-      <li><a href="https://git-scm.com/download/windows">Git</a></li>
-   </ul>
+   ## 🚧 Prerequisites
+
+   - [Node.js 14+](https://nodejs.org/en/download/)
+   - [discord.js@12.5.3](https://www.npmjs.com/package/discord.js/v/12.5.3)
+   - [Lavalink Server](https://darrennathanael.com/post/how-to-lavalink/?utm_source=github-sudhanplayz&utm_medium=readme&utm_campaign=sudhanplayz&utm_content=lavalink-    prerequisites)
    <h3 id="create-a-discord-application">Create a Discord Application</h3>
    <ul>
       <li>go to the <a href="https://discord.com/developers/applications">Discord Developer portal</a></li>
@@ -46,12 +44,6 @@
    </ul>
    <p>Now your bot is running!</p>
 </article>
-
-## 🚧 Prerequisites
-
-- [Node.js 14+](https://nodejs.org/en/download/)
-- [discord.js@12.5.3](https://www.npmjs.com/package/discord.js/v/12.5.3)
-- [Lavalink Server](https://darrennathanael.com/post/how-to-lavalink/?utm_source=github-sudhanplayz&utm_medium=readme&utm_campaign=sudhanplayz&utm_content=lavalink-prerequisites)
 
 ## 🌟 | Made with
 
