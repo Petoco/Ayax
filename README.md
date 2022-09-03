@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.discordapp.net/attachments/734844209839996960/1000123928238379128/Web_Ayax.png?width=700&height=700" width="30px"> Discord Music Bot <img src="https://media.discordapp.net/attachments/734844209839996960/1000123928238379128/Web_Ayax.png?width=700&height=700" width="30px"></h1>
+<h1 align="center"><img src="https://media.discordapp.net/attachments/734844209839996960/1000123928238379128/Web_Ayax.png?width=700&height=700" width="30px"> Ayax Open Source <img src="https://media.discordapp.net/attachments/734844209839996960/1000123928238379128/Web_Ayax.png?width=700&height=700" width="30px"></h1>
 <p align="center">A high quality music bot with free volume control, audio filters, DJ system and much more!</p>
 
 # 🚧 | Prerequisites
