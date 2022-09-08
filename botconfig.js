@@ -1,7 +1,7 @@
 module.exports = {
   Admins: [""], //Admins of the bot
   ExpressServer: true, //If you wanted to make the website run or not
-  DefaultPrefix: process.env.Prefix || ".", //Default prefix, Server Admins can change the prefix
+  DefaultPrefix: process.env.Prefix || "", //Default prefix, Server Admins can change the prefix
   Port: 3002, //Which port website gonna be hosted
   SupportServer: "", //Support Server Link
   Token: process.env.Token || "", //Discord Bot Token
@@ -15,7 +15,7 @@ module.exports = {
   CookieSecret: "Pikachu is cute", //A Secret like a password
   IconURL:
     "", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
-  EmbedColor: "#xxxxx", //Color of most embeds | Dont edit unless you want a specific color instead of a random one each time
+  EmbedColor: "", //Color of most embeds | Dont edit unless you want a specific color instead of a random one each time
   Permissions: 2205281600, //Bot Inviting Permissions
   Website: process.env.Website || "", //Website where it is hosted at includes http or https || Use "0.0.0.0" if you using Heroku || Do not include /api/callback. Just the website url. I.e. "https://foo.bar"
   //If you get invalid oauth, make sure on the discord developer page you set the oauth url to something like: https://example.com/api/callback.
