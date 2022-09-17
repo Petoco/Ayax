@@ -29,7 +29,7 @@
 
   use a [public host](https://lavalink-list.darrennathanael.com)
 
-  or your [own host](https://darrennathanael.com/post/how-to-lavalink/)
+  or your [own host](https://github.com/Petoco/Lavalink-Host)
   
 ## Final Step
 - Open your preferred **terminal** (command prompt or powershell) and change the directory to your Music bot folder (cd "folder directory").
